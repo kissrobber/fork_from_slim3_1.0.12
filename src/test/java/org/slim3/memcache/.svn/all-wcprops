@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1348/trunk/slim3/src/test/java/org/slim3/memcache
+END
+MemcacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1268/trunk/slim3/src/test/java/org/slim3/memcache/MemcacheTest.java
+END
+S3MemcacheSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/memcache/S3MemcacheSerializationTest.java
+END
+MemcacheDelegateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1348/trunk/slim3/src/test/java/org/slim3/memcache/MemcacheDelegateTest.java
+END
+S3ErrorHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1184/trunk/slim3/src/test/java/org/slim3/memcache/S3ErrorHandlerTest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1640/trunk/slim3-gen/src/test/java/org/slim3/gen/task
+END
+JavaFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/task/JavaFileTest.java
+END
+GenModelTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/task/GenModelTaskTest.java
+END
+ClassNameBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/task/ClassNameBuilderTest.java
+END
+GenDaoTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1640/trunk/slim3-gen/src/test/java/org/slim3/gen/task/GenDaoTaskTest.java
+END
+WebConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/task/WebConfigTest.java
+END

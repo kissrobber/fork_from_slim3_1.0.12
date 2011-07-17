@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1392/trunk/slim3/src/test/java/org/slim3/controller/router
+END
+RouterImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1285/trunk/slim3/src/test/java/org/slim3/controller/router/RouterImplTest.java
+END
+RoutingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1392/trunk/slim3/src/test/java/org/slim3/controller/router/RoutingTest.java
+END
+RouterFactoryForBadPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1233/trunk/slim3/src/test/java/org/slim3/controller/router/RouterFactoryForBadPathTest.java
+END
+RouterFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/router/RouterFactoryTest.java
+END

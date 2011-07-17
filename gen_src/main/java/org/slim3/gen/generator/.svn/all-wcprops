@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/generator
+END
+ViewGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/ViewGenerator.java
+END
+ModelGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1143/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/ModelGenerator.java
+END
+ModelTestCaseGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/ModelTestCaseGenerator.java
+END
+GWTServiceAsyncGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/GWTServiceAsyncGenerator.java
+END
+ModelMetaGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1622/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/ModelMetaGenerator.java
+END
+GWTServiceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/GWTServiceGenerator.java
+END
+GWTServiceImplGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/GWTServiceImplGenerator.java
+END
+DaoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/DaoGenerator.java
+END
+GWTServiceImplTestCaseGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/GWTServiceImplTestCaseGenerator.java
+END
+DaoTestCaseGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/DaoTestCaseGenerator.java
+END
+ServiceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/ServiceGenerator.java
+END
+ServiceTestCaseGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/ServiceTestCaseGenerator.java
+END
+ControllerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/ControllerGenerator.java
+END
+ControllerTestCaseGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/ControllerTestCaseGenerator.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/generator/Generator.java
+END

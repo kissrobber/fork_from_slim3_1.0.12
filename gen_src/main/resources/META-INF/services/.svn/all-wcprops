@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/436/trunk/slim3-gen/src/main/resources/META-INF/services
+END
+com.sun.mirror.apt.AnnotationProcessorFactory
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/436/trunk/slim3-gen/src/main/resources/META-INF/services/com.sun.mirror.apt.AnnotationProcessorFactory
+END

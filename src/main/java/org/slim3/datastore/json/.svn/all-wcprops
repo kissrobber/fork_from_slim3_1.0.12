@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1540/trunk/slim3/src/main/java/org/slim3/datastore/json
+END
+JsonRootReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1540/trunk/slim3/src/main/java/org/slim3/datastore/json/JsonRootReader.java
+END
+JsonCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1517/trunk/slim3/src/main/java/org/slim3/datastore/json/JsonCoder.java
+END
+ModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1437/trunk/slim3/src/main/java/org/slim3/datastore/json/ModelReader.java
+END
+JsonValueReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1437/trunk/slim3/src/main/java/org/slim3/datastore/json/JsonValueReader.java
+END
+ModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1437/trunk/slim3/src/main/java/org/slim3/datastore/json/ModelWriter.java
+END
+JsonWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1505/trunk/slim3/src/main/java/org/slim3/datastore/json/JsonWriter.java
+END
+JsonReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1540/trunk/slim3/src/main/java/org/slim3/datastore/json/JsonReader.java
+END
+JsonObjectReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1437/trunk/slim3/src/main/java/org/slim3/datastore/json/JsonObjectReader.java
+END
+Expanded.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1437/trunk/slim3/src/main/java/org/slim3/datastore/json/Expanded.java
+END
+Json.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1437/trunk/slim3/src/main/java/org/slim3/datastore/json/Json.java
+END
+JsonArrayReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1540/trunk/slim3/src/main/java/org/slim3/datastore/json/JsonArrayReader.java
+END
+Default.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1529/trunk/slim3/src/main/java/org/slim3/datastore/json/Default.java
+END

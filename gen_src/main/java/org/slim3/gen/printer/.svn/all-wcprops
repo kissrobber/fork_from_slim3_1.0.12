@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/printer
+END
+FilePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1240/trunk/slim3-gen/src/main/java/org/slim3/gen/printer/FilePrinter.java
+END
+Printer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1240/trunk/slim3-gen/src/main/java/org/slim3/gen/printer/Printer.java
+END
+ConsolePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/printer/ConsolePrinter.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/desc
+END
+ControllerDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ControllerDesc.java
+END
+ModelMetaDescFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1513/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ModelMetaDescFactory.java
+END
+ClassDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ClassDesc.java
+END
+ServiceDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ServiceDesc.java
+END
+DaoDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/DaoDesc.java
+END
+GWTServiceImplDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/GWTServiceImplDesc.java
+END
+GWTServiceDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/GWTServiceDesc.java
+END
+ModelMetaDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1335/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ModelMetaDesc.java
+END
+ControllerDescFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ControllerDescFactory.java
+END
+GWTServiceAsyncDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/GWTServiceAsyncDesc.java
+END
+ModelDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ModelDesc.java
+END
+AttributeMetaDescFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1437/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/AttributeMetaDescFactory.java
+END
+JsonAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1437/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/JsonAnnotation.java
+END
+ViewDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ViewDesc.java
+END
+ModelMetaClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1293/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ModelMetaClassName.java
+END
+ViewDescFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/ViewDescFactory.java
+END
+AttributeMetaDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1437/trunk/slim3-gen/src/main/java/org/slim3/gen/desc/AttributeMetaDesc.java
+END

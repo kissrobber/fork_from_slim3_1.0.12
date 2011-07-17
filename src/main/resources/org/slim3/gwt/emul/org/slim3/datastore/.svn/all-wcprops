@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1190/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore/Sort.java
+END
+ModelMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore/ModelMeta.java
+END
+AbstractModelRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore/AbstractModelRef.java
+END
+InverseModelListRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore/InverseModelListRef.java
+END
+InverseModelRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore/InverseModelRef.java
+END
+ModelRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore/ModelRef.java
+END
+AbstractInverseModelRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore/AbstractInverseModelRef.java
+END
+S3QueryResultList.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1190/trunk/slim3/src/main/resources/org/slim3/gwt/emul/org/slim3/datastore/S3QueryResultList.java
+END

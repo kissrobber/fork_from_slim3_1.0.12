@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/util
+END
+ClassUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/util/ClassUtilTest.java
+END
+StringUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/util/StringUtilTest.java
+END
+CollectionUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/util/CollectionUtilTest.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1640/trunk/slim3-gen/src/test/java/org/slim3/gen/generator
+END
+DaoGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1640/trunk/slim3-gen/src/test/java/org/slim3/gen/generator/DaoGeneratorTest.java
+END
+DaoTestCaseGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1640/trunk/slim3-gen/src/test/java/org/slim3/gen/generator/DaoTestCaseGeneratorTest.java
+END

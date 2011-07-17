@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1624/trunk/slim3/src/test/java/org/slim3/controller/validator
+END
+LongTypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/LongTypeValidatorTest.java
+END
+ShortTypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/ShortTypeValidatorTest.java
+END
+FloatTypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/FloatTypeValidatorTest.java
+END
+IntegerTypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/IntegerTypeValidatorTest.java
+END
+MinlengthValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/MinlengthValidatorTest.java
+END
+RequiredValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/RequiredValidatorTest.java
+END
+LongRangeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/LongRangeValidatorTest.java
+END
+AbstValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/AbstValidatorTest.java
+END
+ByteTypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/ByteTypeValidatorTest.java
+END
+NumberTypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/NumberTypeValidatorTest.java
+END
+DateTypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/DateTypeValidatorTest.java
+END
+RegexpValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/RegexpValidatorTest.java
+END
+MaxlengthValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/MaxlengthValidatorTest.java
+END
+DoubleTypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/DoubleTypeValidatorTest.java
+END
+DoubleRangeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/controller/validator/DoubleRangeValidatorTest.java
+END
+ValidatorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1624/trunk/slim3/src/test/java/org/slim3/controller/validator/ValidatorsTest.java
+END

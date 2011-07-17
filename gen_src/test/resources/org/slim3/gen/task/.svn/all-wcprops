@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/403/trunk/slim3-gen/src/test/resources/org/slim3/gen/task
+END
+web_javaee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/403/trunk/slim3-gen/src/test/resources/org/slim3/gen/task/web_javaee.xml
+END
+web_j2ee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/403/trunk/slim3-gen/src/test/resources/org/slim3/gen/task/web_j2ee.xml
+END
+web_javaee_not_found.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/403/trunk/slim3-gen/src/test/resources/org/slim3/gen/task/web_javaee_not_found.xml
+END

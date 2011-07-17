@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1293/trunk/slim3-gen/src/test/java/org/slim3/gen/desc
+END
+ControllerDescTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/desc/ControllerDescTest.java
+END
+ControllerDescFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/desc/ControllerDescFactoryTest.java
+END
+ModelMetaClassNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1293/trunk/slim3-gen/src/test/java/org/slim3/gen/desc/ModelMetaClassNameTest.java
+END
+ViewDescFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1137/trunk/slim3-gen/src/test/java/org/slim3/gen/desc/ViewDescFactoryTest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1340/trunk/slim3/src/test/java/org/slim3/tester/controller
+END
+IndexControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/tester/controller/IndexControllerTest.java
+END
+HelloController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/tester/controller/HelloController.java
+END
+IndexController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/tester/controller/IndexController.java
+END
+AppRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1340/trunk/slim3/src/test/java/org/slim3/tester/controller/AppRouter.java
+END
+RedirectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/tester/controller/RedirectController.java
+END

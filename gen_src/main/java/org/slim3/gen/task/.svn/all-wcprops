@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/task
+END
+AbstractGenFileTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1148/trunk/slim3-gen/src/main/java/org/slim3/gen/task/AbstractGenFileTask.java
+END
+JavaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/JavaFile.java
+END
+GenModelTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/GenModelTask.java
+END
+GenViewTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/GenViewTask.java
+END
+GenServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/GenServiceTask.java
+END
+ClassNameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/ClassNameBuilder.java
+END
+GenDaoTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1640/trunk/slim3-gen/src/main/java/org/slim3/gen/task/GenDaoTask.java
+END
+GenGWTServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/GenGWTServiceTask.java
+END
+GenGWTServiceImplTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/GenGWTServiceImplTask.java
+END
+WebConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/WebConfig.java
+END
+GenControllerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/GenControllerTask.java
+END
+AbstractGenJavaFileTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/task/AbstractGenJavaFileTask.java
+END

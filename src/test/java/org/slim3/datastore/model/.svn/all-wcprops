@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1357/trunk/slim3/src/test/java/org/slim3/datastore/model
+END
+MySerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/datastore/model/MySerializable.java
+END
+Hoge.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1357/trunk/slim3/src/test/java/org/slim3/datastore/model/Hoge.java
+END
+Ccc.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/datastore/model/Ccc.java
+END
+Bbb.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/datastore/model/Bbb.java
+END
+Aaa.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/datastore/model/Aaa.java
+END

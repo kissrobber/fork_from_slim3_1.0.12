@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor/Logger.java
+END
+UnknownDeclarationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor/UnknownDeclarationException.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor/Options.java
+END
+AptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor/AptException.java
+END
+GenerateSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor/GenerateSupport.java
+END
+ModelProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor/ModelProcessor.java
+END
+ValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor/ValidationException.java
+END
+ModelProcessorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/processor/ModelProcessorFactory.java
+END

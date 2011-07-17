@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1210/trunk/slim3-gen/src/main/java/org/slim3/gen/util
+END
+AnnotationMirrorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1141/trunk/slim3-gen/src/main/java/org/slim3/gen/util/AnnotationMirrorUtil.java
+END
+CollectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/util/CollectionUtil.java
+END
+TypeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/util/TypeUtil.java
+END
+DeclarationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/util/DeclarationUtil.java
+END
+ClassUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/util/ClassUtil.java
+END
+CloseableUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/util/CloseableUtil.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/util/StringUtil.java
+END
+FieldDeclarationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1210/trunk/slim3-gen/src/main/java/org/slim3/gen/util/FieldDeclarationUtil.java
+END

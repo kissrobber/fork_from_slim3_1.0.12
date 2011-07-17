@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1303/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore
+END
+GeoPtType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/GeoPtType.java
+END
+PrimitiveFloatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveFloatType.java
+END
+TextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/TextType.java
+END
+DataTypeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1303/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/DataTypeFactory.java
+END
+IMHandleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/IMHandleType.java
+END
+PostalAddressType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PostalAddressType.java
+END
+CorePrimitiveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/CorePrimitiveType.java
+END
+PrimitiveIntType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveIntType.java
+END
+PrimitiveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveType.java
+END
+SortedSetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/SortedSetType.java
+END
+BlobKeyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1303/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/BlobKeyType.java
+END
+KeyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/KeyType.java
+END
+IntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/IntegerType.java
+END
+CategoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/CategoryType.java
+END
+PrimitiveCharType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveCharType.java
+END
+BlobType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/BlobType.java
+END
+RatingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/RatingType.java
+END
+ShortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/ShortType.java
+END
+LongType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/LongType.java
+END
+InverseModelListRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/InverseModelListRefType.java
+END
+OtherReferenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/OtherReferenceType.java
+END
+LinkedHashSetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/LinkedHashSetType.java
+END
+LinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/LinkType.java
+END
+InverseModelRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/InverseModelRefType.java
+END
+ArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/ArrayType.java
+END
+LinkedListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/LinkedListType.java
+END
+ArrayListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/ArrayListType.java
+END
+PhoneNumberType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PhoneNumberType.java
+END
+PrimitiveShortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveShortType.java
+END
+HashSetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/HashSetType.java
+END
+DoubleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/DoubleType.java
+END
+StringType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/StringType.java
+END
+DataTypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1303/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/DataTypeVisitor.java
+END
+PrimitiveByteType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveByteType.java
+END
+DateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/DateType.java
+END
+AbstractDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/AbstractDataType.java
+END
+CoreReferenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/CoreReferenceType.java
+END
+ReferenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/ReferenceType.java
+END
+UserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/UserType.java
+END
+ModelRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/ModelRefType.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/DataType.java
+END
+BooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/BooleanType.java
+END
+TreeSetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/TreeSetType.java
+END
+PrimitiveLongType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveLongType.java
+END
+SetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/SetType.java
+END
+PrimitiveBooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveBooleanType.java
+END
+EnumType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/EnumType.java
+END
+CollectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/CollectionType.java
+END
+SimpleDataTypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1303/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/SimpleDataTypeVisitor.java
+END
+ListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/ListType.java
+END
+FloatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/FloatType.java
+END
+EmailType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/EmailType.java
+END
+ShortBlobType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/ShortBlobType.java
+END
+PrimitiveDoubleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1154/trunk/slim3-gen/src/main/java/org/slim3/gen/datastore/PrimitiveDoubleType.java
+END

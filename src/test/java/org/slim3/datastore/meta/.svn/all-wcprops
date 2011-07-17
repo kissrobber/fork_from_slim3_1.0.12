@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1437/trunk/slim3/src/test/java/org/slim3/datastore/meta
+END
+ModelMetaDatastoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1371/trunk/slim3/src/test/java/org/slim3/datastore/meta/ModelMetaDatastoreTest.java
+END
+HogeMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1437/trunk/slim3/src/test/java/org/slim3/datastore/meta/HogeMeta.java
+END
+CccMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1437/trunk/slim3/src/test/java/org/slim3/datastore/meta/CccMeta.java
+END
+BbbMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1437/trunk/slim3/src/test/java/org/slim3/datastore/meta/BbbMeta.java
+END
+AaaMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1437/trunk/slim3/src/test/java/org/slim3/datastore/meta/AaaMeta.java
+END

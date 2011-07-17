@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1415/trunk/slim3/src/test/resources
+END
+test_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1415/trunk/slim3/src/test/resources/test_en.properties
+END
+test_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1415/trunk/slim3/src/test/resources/test_ja.properties
+END

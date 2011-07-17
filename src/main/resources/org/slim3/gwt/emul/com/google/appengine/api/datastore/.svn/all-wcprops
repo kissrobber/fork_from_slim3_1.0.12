@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Text.java
+END
+KeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1455/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/KeyFactory.java
+END
+PostalAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/PostalAddress.java
+END
+Text_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Text_CustomFieldSerializer.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1188/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Query.java
+END
+PostalAddress_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/PostalAddress_CustomFieldSerializer.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Entity.java
+END
+Entity_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Entity_CustomFieldSerializer.java
+END
+AppIdNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/AppIdNamespace.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Key.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Category.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Transaction.java
+END
+Blob.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Blob.java
+END
+Rating.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Rating.java
+END
+Email.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Email.java
+END
+AppIdNamespace_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/AppIdNamespace_CustomFieldSerializer.java
+END
+Key_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1136/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Key_CustomFieldSerializer.java
+END
+Category_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Category_CustomFieldSerializer.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Link.java
+END
+Blob_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Blob_CustomFieldSerializer.java
+END
+Rating_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Rating_CustomFieldSerializer.java
+END
+ShortBlob.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/ShortBlob.java
+END
+Email_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Email_CustomFieldSerializer.java
+END
+PhoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/PhoneNumber.java
+END
+Link_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/Link_CustomFieldSerializer.java
+END
+GeoPt.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/GeoPt.java
+END
+ShortBlob_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/ShortBlob_CustomFieldSerializer.java
+END
+PhoneNumber_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/PhoneNumber_CustomFieldSerializer.java
+END
+GeoPt_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1479/trunk/slim3/src/main/resources/org/slim3/gwt/emul/com/google/appengine/api/datastore/GeoPt_CustomFieldSerializer.java
+END

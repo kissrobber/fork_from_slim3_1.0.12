@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1479/trunk/slim3/src/test/java/com/google/appengine/api/datastore/client
+END
+SerializationServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1479/trunk/slim3/src/test/java/com/google/appengine/api/datastore/client/SerializationServiceAsync.java
+END
+SerializationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1479/trunk/slim3/src/test/java/com/google/appengine/api/datastore/client/SerializationService.java
+END

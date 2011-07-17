@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1437/trunk/slim3-gen/src/main/java/org/slim3/gen/message
+END
+MessageResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/message/MessageResource.java
+END
+MessageCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1437/trunk/slim3-gen/src/main/java/org/slim3/gen/message/MessageCode.java
+END
+MessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1137/trunk/slim3-gen/src/main/java/org/slim3/gen/message/MessageFormatter.java
+END

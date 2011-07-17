@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/util/cool/service
+END
+BadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/util/cool/service/BadService.java
+END
+GreetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/util/cool/service/GreetService.java
+END
+Bad2Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/org/slim3/util/cool/service/Bad2Service.java
+END

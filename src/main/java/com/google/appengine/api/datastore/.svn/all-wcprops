@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore
+END
+Text_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/Text_CustomFieldSerializer.java
+END
+PostalAddress_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/PostalAddress_CustomFieldSerializer.java
+END
+QueryTranslatorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1322/trunk/slim3/src/main/java/com/google/appengine/api/datastore/QueryTranslatorUtil.java
+END
+KeyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1322/trunk/slim3/src/main/java/com/google/appengine/api/datastore/KeyUtil.java
+END
+Entity_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/Entity_CustomFieldSerializer.java
+END
+Key_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1136/trunk/slim3/src/main/java/com/google/appengine/api/datastore/Key_CustomFieldSerializer.java
+END
+AppIdNamespace_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1136/trunk/slim3/src/main/java/com/google/appengine/api/datastore/AppIdNamespace_CustomFieldSerializer.java
+END
+Category_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/Category_CustomFieldSerializer.java
+END
+Blob_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/Blob_CustomFieldSerializer.java
+END
+Rating_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/Rating_CustomFieldSerializer.java
+END
+Email_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/Email_CustomFieldSerializer.java
+END
+Link_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/Link_CustomFieldSerializer.java
+END
+ShortBlob_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/ShortBlob_CustomFieldSerializer.java
+END
+PhoneNumber_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/PhoneNumber_CustomFieldSerializer.java
+END
+GeoPt_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1479/trunk/slim3/src/main/java/com/google/appengine/api/datastore/GeoPt_CustomFieldSerializer.java
+END

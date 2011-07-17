@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1480/trunk/slim3/src/test/java/com/google/appengine/api/datastore
+END
+KeyFactoryGWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1463/trunk/slim3/src/test/java/com/google/appengine/api/datastore/KeyFactoryGWTTest.java
+END
+RpcSerializationGWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1479/trunk/slim3/src/test/java/com/google/appengine/api/datastore/RpcSerializationGWTTest.java
+END
+Datastore.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1479/trunk/slim3/src/test/java/com/google/appengine/api/datastore/Datastore.gwt.xml
+END
+KeyGWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1463/trunk/slim3/src/test/java/com/google/appengine/api/datastore/KeyGWTTest.java
+END
+AllGWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1480/trunk/slim3/src/test/java/com/google/appengine/api/datastore/AllGWTTest.java
+END
+KeyUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1136/trunk/slim3/src/test/java/com/google/appengine/api/datastore/KeyUtilTest.java
+END
