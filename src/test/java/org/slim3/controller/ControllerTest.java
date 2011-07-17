@@ -23,6 +23,8 @@ import java.util.Date;
 import org.junit.Test;
 import org.slim3.controller.upload.FileUpload;
 import org.slim3.tester.ControllerTestCase;
+import org.slim3.util.CopyOptions;
+import org.slim3.util.RequestMap;
 
 import com.google.appengine.api.datastore.Key;
 import com.google.appengine.api.datastore.KeyFactory;
@@ -284,6 +286,48 @@ public class ControllerTest extends ControllerTestCase {
     public void asKeyForKeyIsNull() throws Exception {
         assertThat(controller.asKey("key"), is(nullValue()));
     }
+    
+    /**
+     * @throws Exception
+     * 
+     */
+    @Test
+    public void asMap() throws Exception {
+        tester.request.setAttribute("aaa", "aiueo");
+        tester.request.setAttribute("bbb", "12345");
+        RequestMap map = controller.asMap();
+        assertThat(map.keySet().size(), is(2));
+        assertThat((String)map.get("aaa"), is("aiueo"));
+        assertThat((String)map.get("bbb"), is("12345"));
+    }
+    
+    /**
+     * @throws Exception
+     * 
+     */
+    @Test
+    public void asObject() throws Exception {
+        tester.request.setAttribute("aaa", "aiueo");
+        tester.request.setAttribute("bbb", "12345");
+        Hoge obj = controller.asObject(new Hoge());
+        assertThat(obj.getAaa(), is("aiueo"));
+        assertThat(obj.getBbb(), is(12345));
+    }
+    
+    /**
+     * @throws Exception
+     * 
+     */
+    @Test
+    public void asObjectWithCopyOptions() throws Exception {
+        tester.request.setAttribute("aaa", "aiueo");
+        tester.request.setAttribute("bbb", "12345");
+        CopyOptions copyOptions = new CopyOptions();
+        copyOptions.include("aaa");
+        Hoge obj = controller.asObject(new Hoge(), copyOptions);
+        assertThat(obj.getAaa(), is("aiueo"));
+        assertThat(obj.getBbb(), nullValue());
+    }
 
     /**
      * @throws Exception
@@ -393,6 +437,23 @@ public class ControllerTest extends ControllerTestCase {
         @Override
         public Navigation run() {
             return null;
+        }
+    }
+    
+    private static class Hoge{
+        private String aaa;
+        private Integer bbb;
+        public String getAaa() {
+            return aaa;
+        }
+        public void setAaa(String aaa) {
+            this.aaa = aaa;
+        }
+        public Integer getBbb() {
+            return bbb;
+        }
+        public void setBbb(Integer bbb) {
+            this.bbb = bbb;
         }
     }
 }

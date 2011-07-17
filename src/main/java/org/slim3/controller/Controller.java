@@ -24,6 +24,7 @@ import java.net.URLEncoder;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -35,13 +36,16 @@ import javax.servlet.http.HttpSession;
 import org.slim3.controller.upload.FileUpload;
 import org.slim3.controller.validator.Errors;
 import org.slim3.util.AppEngineUtil;
+import org.slim3.util.BeanUtil;
 import org.slim3.util.BooleanUtil;
+import org.slim3.util.CopyOptions;
 import org.slim3.util.DateUtil;
 import org.slim3.util.DoubleUtil;
 import org.slim3.util.FloatUtil;
 import org.slim3.util.IntegerUtil;
 import org.slim3.util.LongUtil;
 import org.slim3.util.NumberUtil;
+import org.slim3.util.RequestMap;
 import org.slim3.util.ShortUtil;
 import org.slim3.util.StringUtil;
 import org.slim3.util.ThrowableUtil;
@@ -491,6 +495,54 @@ public abstract class Controller {
             return (Key) key;
         }
         return KeyFactory.stringToKey(key.toString());
+    }
+    
+    /**
+     * Returns the request attribute value as {@link Map}.
+     * 
+     * @return the request attribute values as {@link Map}
+     */
+    protected RequestMap asMap() {
+        return new RequestMap(request);
+    }
+    
+    /**
+     * Returns the request attribute value as {@link Object}.
+     * @param <O> 
+     * 
+     * @param obj the object
+     * @return the request attribute value as {@link Object}
+     * @throws NullPointerException if the object is null
+     */
+    protected <O> O asObject(O obj){
+        if ( obj == null) {
+            throw new NullPointerException(
+                "The obj parameter must not be null.");
+        }
+        BeanUtil.copy(request, obj);
+        return obj;
+    }
+    
+    /**
+     * Returns the request attribute value as {@link Object}.
+     * @param <O> 
+     * 
+     * @param obj the object
+     * @param copyOptions the CopyOptions
+     * @return the request attribute value as {@link Object}
+     * @throws NullPointerException if the object is null or if the {@link CopyOptions} is null
+     */
+    protected <O> O asObject(O obj, CopyOptions copyOptions){
+        if ( obj == null) {
+            throw new NullPointerException(
+                "The obj parameter must not be null.");
+        }
+        if ( copyOptions == null) {
+            throw new NullPointerException(
+                "The copyOptions parameter must not be null.");
+        }
+        BeanUtil.copy(request, obj, copyOptions);
+        return obj;
     }
 
     /**

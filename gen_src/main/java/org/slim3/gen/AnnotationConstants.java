@@ -89,4 +89,5 @@ public final class AnnotationConstants {
     
     /** {@code org.junit.Test} */
     public static final String Test = "org.junit.Test";
+    
 }
